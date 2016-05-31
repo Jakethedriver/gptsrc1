@@ -1,0 +1,22 @@
+html, body{
+	margin: 0;
+	padding:0;
+}
+
+.header{
+	background-color:#333333;
+}
+
+
+a {
+	text-decoration:none;
+}
+
+
+
+
+
+.gpt {
+	background-image:url(http://i.imgur.com/RK6KF1i.jpg);
+	height:800px;
+}
